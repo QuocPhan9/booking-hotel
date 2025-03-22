@@ -13,6 +13,6 @@ app.use(cors());
 
 app.use("/api/users", userRoutes);
 
-app.listen(5000, () => {
-    console.log("Server is running on port 5000");
+app.listen(7000, () => {
+    console.log("Server is running on port 7000");
 })

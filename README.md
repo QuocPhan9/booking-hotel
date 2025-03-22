@@ -7,7 +7,7 @@ These npm installed dependencies:
     npx ts-init
 
 - Frontend: 
-    npm install -D tailwindcss@3 postcss autoprefixer react-hook-form
+    npm install -D tailwindcss@3 postcss autoprefixer react-hook-form @tanstack/react-query
 
     npx tailwindcss init -p
 
